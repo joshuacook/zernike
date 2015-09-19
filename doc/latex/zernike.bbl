@@ -1,0 +1,39 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Chong et~al.(2003)Chong, Raveendran, and
+  Mukundan]{chong2003comparative}
+Chee-Way Chong, P~Raveendran, and R~Mukundan.
+\newblock A comparative analysis of algorithms for fast computation of zernike
+  moments.
+\newblock \emph{Pattern Recognition}, 36\penalty0 (3):\penalty0 731--742, 2003.
+
+\bibitem[Honarvar~Shakibaei and Paramesran(2013)]{honarvar2013recursive}
+Barmak Honarvar~Shakibaei and Raveendran Paramesran.
+\newblock Recursive formula to compute zernike radial polynomials.
+\newblock \emph{Optics letters}, 38\penalty0 (14):\penalty0 2487--2489, 2013.
+
+\bibitem[Janssen and Dirksen(2007)]{janssen2007computing}
+Augustus~JEM Janssen and Peter Dirksen.
+\newblock Computing zernike polynomials of arbitrary degree using the discrete
+  fourier transform.
+\newblock \emph{Journal of the European Optical Society-Rapid publications}, 2,
+  2007.
+
+\bibitem[Kintner(1976)]{kintner1976mathematical}
+Eric~C Kintner.
+\newblock On the mathematical properties of the zernike polynomials.
+\newblock \emph{Journal of Modern Optics}, 23\penalty0 (8):\penalty0 679--680,
+  1976.
+
+\bibitem[Prata~Jr and Rusch(1989)]{prata1989algorithm}
+Aluizio Prata~Jr and WVT Rusch.
+\newblock Algorithm for computation of zernike polynomials expansion
+  coefficients.
+\newblock \emph{Applied Optics}, 28\penalty0 (4):\penalty0 749--754, 1989.
+
+\end{thebibliography}
